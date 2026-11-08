@@ -1,1 +1,2 @@
 # DeepLearningAndNN
+## hey, hi everyone
